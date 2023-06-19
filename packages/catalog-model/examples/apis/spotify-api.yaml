@@ -7,7 +7,7 @@ metadata:
     - spotify
     - rest
   annotations:
-    backstage.io/techdocs-ref: 'url:https://github.com/madhukardevops/backstage'
+    
     # The annotation is deprecated, we use placeholders (see below) instead, remove it later.
     backstage.io/definition-at-location: 'url:https://raw.githubusercontent.com/madhukardevops/openapi-directory/main/APIs/spotify.com/v1/swagger.yaml'
 spec:
